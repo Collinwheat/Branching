@@ -17,3 +17,9 @@
 * 'git branch' - list local branches
 * 'git branch branchName' - create local branch 'branchName'
 * 'git checkout branchName' - switch to branch 'branchName'
+
+### Remote Commands
+* 'git remote add origin repoUrl' -create alias for remote repo 'repoUrl'
+* 'git push origin branchName' - push to remote branch 'branchName'
+* 'git push -u origin branchName' - push to remote branch 'branchName' making it the default remote 
+* ''
